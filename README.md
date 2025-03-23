@@ -1,8 +1,19 @@
 # 🐘 EleEYE | Your Safety, Their Survival.
 
-[![Website Preview](https://eleye.site/static/ele1.jpg)](https://eleye.site)
+<div align="center">
 
-> **Live Preview**: 🌐 [Visit Website](https://eleye.site)
+  
+  ## 🚀 Live Site
+  <a href="https://eleye.site" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-EleEYE%20Website-brightgreen?style=for-the-badge&logo=firefox" alt="Visit EleEYE Website">
+  </a>
+
+  <br><br>
+
+  <img src="https://eleye.site/static/ele1.jpg" alt="EleEYE Website Preview" width="450">
+
+</div>
+
 
 ---
 
@@ -14,31 +25,35 @@ Crafted with ❤️ using **HTML**, **CSS**, and **JavaScript**.
 
 ## 🚀 What is EleEYE?
 
-EleEYE is more than just a tech project — it’s a movement. With the rise in elephant fatalities and human injuries caused by road and railway accidents, EleEYE provides a smart solution through **real-time detection**, **community alerts**, and **automated warnings**.
+EleEYE is more than just a tech project — it’s a movement. With the rise in elephant fatalities and human injuries caused by road and railway accidents, EleEYE provides a smart solution through:
 
-This marketing site serves as a public-facing platform to raise awareness, highlight key features, and build trust in our solution.
+- 🧠 **AI-powered real-time detection**
+- 🌍 **Crowdsourced community alerts**
+- 🚦 **Automatic roadside warnings**
+
+This marketing site serves as a public-facing platform to raise awareness, showcase our mission, and highlight our technological features and impact.
 
 ---
 
-## 🎯 Key Features (on the Website)
+## 🎯 Website Features
 
-- ✨ **Dynamic Typing Effect** – Eye-catching animated title for instant impact.
-- 📊 **Live Counter Stats** – Shocking real-world numbers that update dynamically.
-- 🧠 **Feature Highlights Section** – Animated card stack showcasing core EleEYE features.
-- 👥 **Team Showcase** – Smooth scroll animation to introduce the minds behind the mission.
-- 📱 **Responsive Design** – Fully mobile-friendly and optimized for all screen sizes.
-- 🎨 **Stylish UI/UX** – Elegant color palette and subtle animations for a modern experience.
+- ✨ **Dynamic Typing Effect** – Engaging hero section that types out our tagline.
+- 📊 **Live Counter Stats** – Hard-hitting real-time numbers that tell the story.
+- 🧱 **Stacked Feature Cards** – Interactive scrolling animation that brings EleEYE’s capabilities to life.
+- 👥 **Meet the Team** – Linked profiles with animated card reveals.
+- 📱 **Responsive Design** – Fully optimized for desktop, tablet, and mobile.
+- 🎨 **Modern UI/UX** – Soft color palette and fluid animations for an elegant experience.
 
 ---
 
 ## 💻 Tech Stack
 
-| Technology | Purpose                 |
-|------------|-------------------------|
-| HTML       | Structure & Layout      |
-| CSS        | Styling & Animations    |
-| JavaScript | Interactivity & Effects |
-| Boxicons   | Iconography             |
+| Technology | Role                     |
+|------------|--------------------------|
+| HTML5      | Structure & Content       |
+| CSS3       | Styling & Animations      |
+| JavaScript | Interactivity & Scroll Effects |
+| Boxicons   | Icon Set for UI Elements  |
 
 ---
 
@@ -46,10 +61,11 @@ This marketing site serves as a public-facing platform to raise awareness, highl
 
 ```bash
 EleEYE-Marketing/
-├── index.html
-├── style.css
-├── script.js
-├── static/
+├── index.html          # Main website content
+├── style.css           # Custom styles and animations
+├── script.js           # JavaScript logic and DOM handling
+├── static/             # Images and assets
 │   ├── LOGO.png
 │   ├── ele1.jpg
-│   ├── [team images...]
+
+
